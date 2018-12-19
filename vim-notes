@@ -1,0 +1,25 @@
+1) 2 modes insert (i) and normal (esc)
+2) h,j,k,l (navigate instead of arrows)
+3) w,b, & e ( navigate in terms of words)
+4) you can prefix commands with numbers ie. 3go
+5) f ( find ie. fo means find the next o) 
+6) % (when on a bracket of any style, jumps to the end bracket)
+7) 0 (zero , go to beginning of line)
+   $ ( go to the end of the line) 
+8) * ( next occurence of current word)
+   # ( previous occurrence of current word)
+9) gg ( go to the beginning of the file) 
+    G ( go to the end of the file) 
+   5G ( go to line number 5)
+10) /keyword ( search for 'keyword'
+    n = next and N = previous
+11) o or O ( insert text into next line above/below)
+12) x or X ( delete current character or previous character)
+13) r ( quick replace current character) 
+14) . ( repeat previous command.
+15) :w (save)
+16) :q (quit)
+17) :q! ( auit but do NOT save.
+18) u (undo)
+19) ctrl+R ( redo)
+
